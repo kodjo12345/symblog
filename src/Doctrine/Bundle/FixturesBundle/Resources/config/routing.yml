@@ -1,0 +1,3 @@
+doctrine_fixtures_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: DoctrineFixturesBundle:Default:index }
